@@ -1,5 +1,3 @@
-
-
 # Password Cracking and Hash Analysis Using Johnny (John the Ripper)
 
 ![Johnny](https://img.shields.io/badge/Tool-Johnny-blue?style=for-the-badge)
@@ -74,6 +72,8 @@ The exercise involved a PDF password hash.
 
 The screenshot shows the password-cracking session completed successfully.
 
+<img width="2736" height="1824" alt="johnny" src="https://github.com/user-attachments/assets/28f11783-f00b-4586-914b-369b77c6c897" />
+
 **Observed result:**
 
 - Hash format: PDF
@@ -95,6 +95,9 @@ The recovered password is intentionally excluded from this public documentation.
 After successfully recovering the password, I reached the lab's completion screen.
 
 The screen displayed a congratulations message confirming that another flag had been captured.
+
+<img width="893" height="1260" alt="flagwith johnn2" src="https://github.com/user-attachments/assets/59b2bdb9-e14f-4b0e-af8e-5be358b76de9" />
+
 
 **Flag:**
 
@@ -188,3 +191,10 @@ Password-cracking techniques should only be used on files, accounts and systems 
 
 **Understanding how passwords are cracked is an important step towards learning how to protect them.**
 
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
